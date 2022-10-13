@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Prime
 - 👀 I’m interested in code.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, nodes, server side.
 - 💞️ I’m looking to collaborate on opensource.
 - 📫 How to reach me....
 - @plpmyanmar 
